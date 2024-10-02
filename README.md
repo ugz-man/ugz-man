@@ -47,8 +47,8 @@ I am a Full Stack Web Developer
 
 --- 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ugo-codes&theme=windows-dark&date_format=j/n/Y)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ugz-man&theme=windows-dark&date_format=j/n/Y)](https://git.io/streak-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugo-codes&layout=compact&langs_count=4&custom_title=Most%20Used%20Languages&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugz-man&layout=compact&langs_count=4&custom_title=Most%20Used%20Languages&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
