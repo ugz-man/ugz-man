@@ -17,21 +17,21 @@
 ### :man_technologist: About Me 
 I am a Full Stack Web Developer
 
-- :computer: I work with React and Nodejs for building of websites
-- :lotus_position_man: At my free time I read books
+- :computer: I work with React, NextJS and NodeJS for building websites.
+- :lotus_position_man: At my free time I read books.
 - :handshake: I'm available for working or collaborating on interesting projects
-- :brain: I'm currently learning data science
-- :email: You can email me at <a href="mailto: ugzman8@gmail.com">ugzman8@gmail.com</a>
+- :brain: I'm currently learning a lot of stuffs.
+- :email: You can email me at <a href="mailto: ugzman8@gmail.com">ugocodesemail@gmail.com</a>
 
 ---
 
 ### :iphone: Socials
 <div id="socials">
-    <a href="https://www.linkedin.com/in/ugo-codes"> 
+    <a href="https://www.linkedin.com/in/ugzman/"> 
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/ugo_codes">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://x.com/ugz_man">
+        <img src="https://img.shields.io/badge/x-black?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge"/>
     </a>
 </div>
 
@@ -40,8 +40,10 @@ I am a Full Stack Web Developer
 ### :telescope: Skills
 <div id="skills">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="React Logo" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs Logo" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongodb Logo" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="React Logo" width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" />    
 </div>
 
